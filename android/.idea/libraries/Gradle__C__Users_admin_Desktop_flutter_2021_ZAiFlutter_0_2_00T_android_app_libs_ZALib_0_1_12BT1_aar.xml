@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: C./Users/admin/Desktop/flutter_2021/ZAiFlutter_0.2.00T/android/app/libs/ZALib_0.1.12BT1.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e250e64ccf7cea2c84b61ce3003933fb/jetified-ZALib_0.1.12BT1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e250e64ccf7cea2c84b61ce3003933fb/jetified-ZALib_0.1.12BT1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e250e64ccf7cea2c84b61ce3003933fb/jetified-ZALib_0.1.12BT1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
