@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<bluetooth>
+    <item address="bR301BLE">
+        <address>00:A0:50:03:14:15</address>
+        <name>FT_00A050031415</name>
+    </item>
+    <item address="bR301BLE">
+        <address>00:A0:50:12:10:2A</address>
+        <name>FT_00A05012102A</name>
+    </item>
+</bluetooth>
